@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Konversi Jarak</string>
+    <string name="km_cm">Kilometer - Centimeter</string>
+    <string name="km_m">Kilometer - Meter</string>
+    <string name="hitung">Hitung</string>
+    <string name="input_km">Masukkan KM</string>
+</resources>
